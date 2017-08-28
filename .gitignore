@@ -4,13 +4,6 @@
 # OS files
 .DS_Store
 
-# compiled sources
-*.js
-*.d.ts
-
-# Angular AoT output
-*.metadata.json
-
 # Logs
 logs
 *.log
